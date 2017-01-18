@@ -1,6 +1,6 @@
 {
   "name" : "APEX 5.1 FadeOut Success MSG",
-  "version" : "0.1",
+  "version" : "0.1.0",
   "description" : "Fade out the Success message in APEX 5.1 automaticly.",
   "keywords" : ["Plugin", "Oracle", "APEX 5.1", "Success", "Message"],
   "homepage" : "https://github.com/THDevelop/APEX-5.1-FadeOut-Success-MSG",
