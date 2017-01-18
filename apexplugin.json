@@ -5,7 +5,7 @@
   "keywords" : ["Plugin", "Oracle", "APEX 5.1", "Success", "Message"],
   "homepage" : "https://github.com/THDevelop/APEX-5.1-FadeOut-Success-MSG",
   "bugs" : {
-    "url" : "https://github.com/THDevelop/APEX-5.1-FadeOut-Success-MSG",
+    "url" : "https://github.com/THDevelop/APEX-5.1-FadeOut-Success-MSG/issues",
     "email" : "develop_t@hotmail.com"
   },
   "license" : "MIT",
