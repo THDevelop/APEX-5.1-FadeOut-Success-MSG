@@ -26,7 +26,7 @@
         "internalName" : "DE.THALBACHDEVELOP.AFSM",
         "type" : "dynamic action",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=62012:2:0:::::",
-        "previewImage" : "https://github.com/THDevelop/APEX-5.1-FadeOut-Success-MSG/blob/master/Plugin_img.gif"
+        "previewImage" : "https://raw.githubusercontent.com/THDevelop/APEX-5.1-FadeOut-Success-MSG/master/Plugin_img.gif"
       }
     }
   }
